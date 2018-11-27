@@ -1,5 +1,5 @@
 package de.unitrier.st.fst18.list;
-
+//Charel92
 /**
  * Doppelt verkettete Liste.
  */
